@@ -1,0 +1,10 @@
+.article{
+  flex: 1;
+}
+.heading{
+  background-color: burlywood;
+  padding:20px;
+}
+.pull-right{
+  float: right;  
+}
